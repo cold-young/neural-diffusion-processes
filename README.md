@@ -1,7 +1,7 @@
 ![Quality checks and Tests](https://github.com/vdutor/neural-diffusion-processes/actions/workflows/run-tests.yml/badge.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2206.03992-b31b1b.svg)](https://arxiv.org/abs/2206.03992)
 
-# Neural Diffusion Processes
+# Neural Diffusion Processesㅅㅅㅅㅅ
 
 This repository contains the code for the paper [Neural Diffusion Processes](https://arxiv.org/abs/2206.03992) by Vincent Dutordoir, Alan Saul, Zoubin Ghahramani and Fergus Simpson accepted at ICML 2023.
 
